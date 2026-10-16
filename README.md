@@ -19,7 +19,7 @@ profil gitHub
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/reicksann?xtok=aDBsZ3ZlczZvc2g2&utm_source=qr><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reicksaan" height="30" width="40" /></a>
+<a href="https://instagram.com/reicksaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="reicksaan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
