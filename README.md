@@ -1,7 +1,7 @@
 # KRISWANTO-R.TUBE
 profil gitHub
 <h1 align="center">Hi 👋, I'm Kris Tube</h1>
-<h3 align="center">Mahasiswa SISTEM TEKNOLOGI INFORMASIN dari Tobelo Maluku Utara</h3>
+<h3 align="center">Mahasiswa SISTEM TEKNOLOGI INFORMASI dari Tobelo Maluku Utara</h3>
 
 - 🔭 I’m currently working on **saya sedang mengerjakan tugas ngoding time sayah**
 
