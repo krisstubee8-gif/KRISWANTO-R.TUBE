@@ -3,19 +3,19 @@ profil gitHub
 <h1 align="center">Hi 👋, I'm Kris Tube</h1>
 <h3 align="center">Mahasiswa SISTEM TEKNOLOGI INFORMASI dari Tobelo Maluku Utara</h3>
 
-- 🔭 I’m currently working on **saya sedang mengerjakan tugas ngoding time sayah**
+- **saya sedang mengerjakan tugas ngoding time sayah**
 
-- 🌱 I’m currently learning **sayah sedang belajar html**
+- **sayah sedang belajar html**
 
-- 👯 I’m looking to collaborate on **saya ingin berkolaborasi di project web**
+- **saya ingin berkolaborasi di project web**
 
-- 🤝 I’m looking for help with **saya mencari bantuan buat lebih belajar html css dan bahasa pemograman lainnya**
+- **saya mencari bantuan buat lebih belajar html css dan bahasa pemograman lainnya**
 
-- 💬 Ask me about **jangan lupa buat tumbu bersama**
+- **jangan lupa buat tumbu bersama**
 
-- 📫 How to reach me **krisstubee8@gmail.com**
+- 📫 **krisstubee8@gmail.com**
 
-- ⚡ Fun fact **sayah mahasiswa yang baru belajar ngoding**
+- ⚡**sayah mahasiswa yang baru belajar ngoding**
 
 <h3 align="left">ig:reicksann</h3>
 <p align="left">
